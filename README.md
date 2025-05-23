@@ -1,8 +1,8 @@
 # house_of_feast_menu
 Multi-page restaurant menu website built using HTML and CSS.
 ## 🔗 Live Demo
-[Click here to view the live website](https://yourprojectlink.netlify.app)  
-[GitHub Repository](https://github.com/yourusername/house-of-feast)
+[Click here to view the live website]([https://yourprojectlink.netlify.app](https://likhita-nanda.github.io/house_of_feast_menu/))  
+[GitHub Repository](https://github.com/Likhita-nanda/house_of_feast_menu)
 
 ## 📝 Features
 - Categorized food items into **Starters**, **Biryanis**, **Combos**, **Specials**, and **Drinks** – each with 5-6 clickable food varieties.
