@@ -1,0 +1,96 @@
+h1,h2{
+    text-align:center;
+    color: azure;
+
+}
+h1{
+    font-size:60px;
+    color: rgb(255, 255, 255);
+}
+
+h2{
+    font-size:30px;
+}
+h3{
+    text-align:center;
+    color: rgb(213, 163, 163);
+    font-size: 25px;
+}
+
+.menu{
+    margin-left: 30%;
+    margin-right:30% ;
+    margin-top: 6%;
+    margin-bottom: 6%;
+    
+   background-color: rgb(37, 11, 11);
+   color:azure;
+   padding: 10px;
+   max-width: 500px;
+   
+}
+
+.name,.price{
+    display: inline-block;
+    font-size: 20px;
+   
+    
+}
+.name{
+    width:92%
+
+}
+.price{
+    width: 8%;
+}
+
+
+hr{
+    border-width:2px;
+    border-color: brown;
+}
+a{
+    color: azure;
+}
+a:hover{
+    color: rgb(161, 115, 115);
+}
+.butt1{
+    width: 18%;
+    margin-top: 30%;
+    margin-bottom: 0%;
+    margin-left: 50%;
+    display:inline-block;
+}
+
+.img1{
+    height: 300px;
+    width: 300px;
+    margin-left: 10px;
+}
+
+.background-image{
+    background-image:url("https://www.safefood.net/getmedia/276e39c9-4f20-48e4-861c-e92210b65f93/roast-chicken_1.jpg?width=5472&height=3648&ext=.jpg");
+    background-size:cover;
+    top:0;
+    left:0;
+    width:100%;
+    height: 100%;
+    position: fixed;
+    z-index: -1;
+    filter: blur(1px);
+}
+.item{
+    margin-bottom: -12px;
+}
+.left-arrow{
+    height: 20px;
+    width: 30px;
+}
+
+footer{
+    
+    text-align: center;
+    margin-top: 20%;
+}
+
